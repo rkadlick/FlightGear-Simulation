@@ -4,10 +4,10 @@ This was a semester long Capstone project, completed in my final semester of gra
 
 The goal of this project was to capture and analyze the trajectory of an aircraft landing and use this data to characterize what a successful landing was, for real world use in training and auto-landing purposes. We were given references to what a successful landing looked like to compare our runs to.
 
-The project began by learning how to fly a plane using the free flight simulation program FlightGear. After learning how to fly and land a particular aircraft (Cessna) to a particular airport (Logan - Boston), we were to extract certain data from the flight record for each landing attempt. This data included latitude, longitude, elevation, airspeed, etc. With this data we were then to visualize the data to show the difference between a successful and unsuccessful landing. After visualizing the data our final task was to perform regression for the trajectories:\ 
+The project began by learning how to fly a plane using the free flight simulation program FlightGear. After learning how to fly and land a particular aircraft (Cessna) to a particular airport (Logan - Boston), we were to extract certain data from the flight record for each landing attempt. This data included latitude, longitude, elevation, airspeed, etc. With this data we were then to visualize the data to show the difference between a successful and unsuccessful landing. After visualizing the data our final task was to perform regression for the trajectories: \
 	- to mathematically characterize them\
 	- to classify them and measure similarity among them\
-	- to derive a representative trajectory from them\
+	- to derive a representative trajectory from them
 
 The work was divided up among the team members, although we brainstormed and conversed together, the first section of the project, pre-processing the data, was my task.
 
